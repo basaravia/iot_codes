@@ -1,7 +1,5 @@
-Icon\r
+Icon
 .DS_Store
 .*
 */._*
 */*/.DS_Store
-.gitignore
-.gitattributes
